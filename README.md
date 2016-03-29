@@ -1,8 +1,8 @@
-# agnoster.zsh-theme
+# agnoster-light.zsh-theme
 
 A ZSH theme optimized for people who use:
 
-- Solarized
+- Solarized **Light**
 - Git
 - Unicode-compatible fonts and terminals (I use iTerm2 + Menlo)
 
